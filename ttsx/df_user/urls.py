@@ -7,4 +7,5 @@ urlpatterns = [
     url(r'^index2', views.index2),
     url(r'^', views.index),
     url(r'^1', views.index),
+    11
 ]
